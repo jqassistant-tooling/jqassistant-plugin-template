@@ -20,4 +20,4 @@ target
 /.mvn
 
 # Docs
-docs/content/.obsidian/workspace.json
+docs/.obsidian/workspace.json
